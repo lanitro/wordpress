@@ -1,0 +1,49 @@
+tableau de bord
+
+cette partie vous donne acces a l'ensemble des fonctionnalités de gestion et vous donne un apperçu
+des nouveauté de la communauté.
+
+pages
+les pages sont l'un des deux concepts les plus importants de Wordpress. il s'agit d'une page
+distincte a l'interieur d'un site Wordpress, qui a son propre titre et son propre contenu.
+cela peut etre la page d'accueil, ou une page separée comme "a propos" ou "contact"
+pour ajouter une page dans Wordpress il suffit de cliquer sur un bouton.
+
+Article
+les articles sont des entrée individuelles groupées ensemble sur une page. de nombreux
+site Wordpress affichent une page d'accueil qui liste tous les articles par ordre
+chronologiqu decroissant. cela fonctionne tres bien pour les blogs et les sites
+d'information, mais eaucoup moin bien pour d'autres types de contenu.
+
+medias
+cette partie vous permet de gerer vos fichiers medias ou d'en ajouter
+
+commentaires
+permet de gerer, moderer les commentaires deposés sur votre site web
+
+extensions
+les extensions sont des fonctionnalités que vous pouvez ajouter individuellement, elles
+etendent le pouvoir d'un site Wordpress. on trouve notamment un simple captcha a ajouter 
+a votre site, des onctionnalités de securité, des formulaire de contact, des fonctionnalités
+de personnalisation d'image des options d'analyse et plus encore
+
+themes(apparence)
+les themes sont un groupe de fichiers et de regles de styles qui vont determiner l'apparence
+de votre site. en choissisant et en bidouillant un peu le theme qui vous convient, vous 
+obtiendrez de tres belles couleurs, polices et un tres bon rendu visuel de votre site.
+
+Utilisateurs
+permet de gerer les internautes inscrits a votre site web et les comptes administrateurs ainsi 
+que leur droits
+
+outils
+vous permet d'importer/exporter des données et est utilisée pour echange d'information
+avec d'autres sites
+
+reglages
+vous permets d'operer differents reglages sur l'utilisation de votre site web par les internautes
+
+difference mot clé & categories
+attention
+ne pas confondre les categories et les mots clés!
+la categorie permet de classer l'article, tandis que le mot clé permet de decrire l'article.
